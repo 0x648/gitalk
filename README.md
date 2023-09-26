@@ -1,2 +1,0 @@
-# TalkRepository
-TalkRepository
